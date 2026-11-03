@@ -1,20 +1,18 @@
-# Projektin Nimi (esim. Tekoälypohjainen Reseptiapuri)
+# Building AI Project
 
-Building AI -kurssin lopputyö
+## Summary
+A brief description of what the project does and what problem it solves.
 
-## Tiivistelmä (Summary)
-Lyhyt kuvaus siitä, mitä projektisi tekee ja mitä ongelmaa se ratkaisee.
+## Background
+Why is this project important? What problem does it solve and for whom?
+* Problem 1
+* Problem 2
 
-## Tausta (Background)
-Miksi tämä projekti on tärkeä? Mitä ongelmaa se ratkaisee ja kenelle se on suunnattu?
-* Ongelma 1
-* Ongelma 2
+## Data and AI methods
+What data is used in the project and what AI methods are applied?
 
-## Data ja menetelmät (Data and AI methods)
-Mitä dataa projektissa käytetään ja millaisia tekoälymenetelmiä (esim. k-NN, lineaarinen regressio, TF-IDF) siinä hyödynnetään?
+## How is it used?
+Describe how the application or solution is used.
 
-## Miten sitä käytetään? (How is it used?)
-Kuvaile, miten käyttäjä käyttää sovellusta tai ratkaisua.
-
-## Haasteet ja jatkokehitys (Limitations & Future)
-Mitä rajoituksia ratkaisussa on? Miten sitä voitaisiin kehittää edelleen tulevaisuudessa?# building-ai-project
+## Limitations & Future
+What limitations does the solution have? How could it be further developed in the future?
